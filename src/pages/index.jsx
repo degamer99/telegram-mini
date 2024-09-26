@@ -1,5 +1,4 @@
 import styles from '../styles/home.module.sass'
-import { FlutterWaveButton, closePaymentModal } from "flutterwave-react-v3";
 import { FaCog, FaGift, FaHome, FaRegEye, FaRegEyeSlash, FaRegMoneyBillAlt } from "react-icons/fa";
 import { VscSettingsGear, VscHome } from "react-icons/vsc";
 import { MdShare, MdOutlineDashboard } from "react-icons/md";
